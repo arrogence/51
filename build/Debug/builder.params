@@ -1,0 +1,64 @@
+{
+    "name": "test",
+    "target": "Debug",
+    "toolchain": "SDCC",
+    "toolchainLocation": "C:\\Users\\14840\\.eide\\tools\\sdcc",
+    "toolchainCfgFile": "c:\\Users\\14840\\.vscode\\extensions\\cl.eide-3.26.1\\res\\data\\models/sdcc.model.json",
+    "buildMode": "fast|multhread",
+    "showRepathOnLog": true,
+    "threadNum": 20,
+    "rootDir": "d:\\code\\project_51\\test",
+    "dumpPath": "build\\Debug",
+    "outDir": "build\\Debug",
+    "incDirs": [],
+    "libDirs": [],
+    "defines": [],
+    "sourceList": [],
+    "alwaysInBuildSources": [],
+    "sourceParams": {},
+    "options": {
+        "version": 3,
+        "beforeBuildTasks": [],
+        "afterBuildTasks": [],
+        "global": {
+            "device": "mcs51",
+            "optimize-type": "speed",
+            "use-non-free": false
+        },
+        "c/cpp-compiler": {
+            "language-c": "c99"
+        },
+        "asm-compiler": {
+            "$toolName": "sdas8051"
+        },
+        "linker": {
+            "$mainFileName": "main",
+            "output-format": "hex"
+        }
+    },
+    "env": {
+        "workspaceFolder": "d:\\code\\project_51\\test",
+        "workspaceFolderBasename": "test",
+        "OutDir": "d:\\code\\project_51\\test\\build\\Debug",
+        "OutDirRoot": "build",
+        "OutDirBase": "build\\Debug",
+        "ProjectName": "test",
+        "ConfigName": "Debug",
+        "ProjectRoot": "d:\\code\\project_51\\test",
+        "ExecutableName": "d:\\code\\project_51\\test\\build\\Debug\\test",
+        "ChipPackDir": "",
+        "ChipName": "",
+        "SYS_Platform": "win32",
+        "SYS_DirSep": "\\",
+        "SYS_DirSeparator": "\\",
+        "SYS_PathSep": ";",
+        "SYS_PathSeparator": ";",
+        "SYS_EOL": "\r\n",
+        "EIDE_BUILDER_DIR": "c:\\Users\\14840\\.vscode\\extensions\\cl.eide-3.26.1\\res\\tools\\win32\\unify_builder",
+        "EIDE_BINARIES_VER": "12.1.1",
+        "EIDE_MSYS": "C:\\Users\\14840\\.eide\\bin\\builder\\msys\\bin",
+        "EIDE_PY3_CMD": "C:\\Users\\14840\\.eide\\bin\\python36\\python3.exe",
+        "ToolchainRoot": "C:\\Users\\14840\\.eide\\tools\\sdcc"
+    },
+    "sysPaths": []
+}

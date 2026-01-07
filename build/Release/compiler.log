@@ -1,0 +1,14 @@
+>>> cc
+
+
+
+>>> ld
+
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_1Wire.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DS18B20.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\Int\Int_OLED.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+Program Size: data=11.3 xdata=97 const=1528 code=2406
+LX51 RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)

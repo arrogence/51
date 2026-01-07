@@ -1,0 +1,91 @@
+{
+    "name": "test",
+    "target": "Release",
+    "toolchain": "Keil_C51",
+    "toolchainLocation": "d:\\Keil_v5\\C51",
+    "toolchainCfgFile": "c:\\Users\\14840\\.vscode\\extensions\\cl.eide-3.19.6\\res\\data\\models\\win32/8051.keil.model.json",
+    "buildMode": "normal|multhread",
+    "showRepathOnLog": true,
+    "threadNum": 20,
+    "rootDir": "d:\\code\\project_51\\test",
+    "dumpPath": "build\\Release",
+    "outDir": "build\\Release",
+    "incDirs": [
+        "../../../Keil_v5/C51/INC/STC",
+        "../../../Keil_v5/C51/INC",
+        "src",
+        "src/Dri",
+        "src/Com",
+        "src/Int"
+    ],
+    "libDirs": [],
+    "defines": [
+        "__UVISION_VERSION=526"
+    ],
+    "sourceList": [
+        "src/Com/Com_Util.c",
+        "src/Dri/Dri_1Wire.c",
+        "src/Dri/Dri_Timer0.c",
+        "src/Dri/Dri_UART.c",
+        "src/Dri/Dri_iic.c",
+        "src/Int/Int_Buzzer.c",
+        "src/Int/Int_DS18B20.c",
+        "src/Int/Int_DigitalTube.c",
+        "src/Int/Int_EEPROM.c",
+        "src/Int/Int_Key.c",
+        "src/Int/Int_KeyMatrix.c",
+        "src/Int/Int_LEDMatrix.c",
+        "src/Int/Int_OLED.c",
+        "src/main.c"
+    ],
+    "sourceParams": {},
+    "sourceParamsMtime": 1767506350683.6238,
+    "options": {
+        "version": 2,
+        "beforeBuildTasks": [],
+        "afterBuildTasks": [],
+        "global": {
+            "ram-mode": "LARGE",
+            "rom-mode": "LARGE"
+        },
+        "c/cpp-compiler": {
+            "optimization-type": "SPEED",
+            "optimization-level": "level-8",
+            "optimization": "8,SPEED"
+        },
+        "asm-compiler": {},
+        "linker": {
+            "remove-unused": true,
+            "output-format": "elf"
+        }
+    },
+    "env": {
+        "workspaceFolder": "d:\\code\\project_51\\test",
+        "workspaceFolderBasename": "test",
+        "OutDir": "d:\\code\\project_51\\test\\build\\Release",
+        "OutDirRoot": "build",
+        "OutDirBase": "build\\Release",
+        "ProjectName": "test",
+        "ConfigName": "Release",
+        "ProjectRoot": "d:\\code\\project_51\\test",
+        "ExecutableName": "d:\\code\\project_51\\test\\build\\Release\\test",
+        "ChipPackDir": "",
+        "ChipName": "",
+        "SYS_Platform": "win32",
+        "SYS_DirSep": "\\",
+        "SYS_DirSeparator": "\\",
+        "SYS_PathSep": ";",
+        "SYS_PathSeparator": ";",
+        "SYS_EOL": "\r\n",
+        "ToolchainRoot": "d:\\Keil_v5\\C51"
+    },
+    "sha": {
+        "c/cpp-defines": "b5babb9cacba6494fa0692e84c1cf8da",
+        "beforeBuildTasks": "d751713988987e9331980363e24189ce",
+        "afterBuildTasks": "d751713988987e9331980363e24189ce",
+        "global": "5c1c59113cbe0150b247fd5bfa57b870",
+        "c/cpp-compiler": "d6401cb3a45dab99a8d0301dd2b94e32",
+        "asm-compiler": "99914b932bd37a50b983c5e7c90ae93b",
+        "linker": "8f1ebe355af85e07f74ac5fb45fcd416"
+    }
+}

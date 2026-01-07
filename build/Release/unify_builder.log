@@ -1,0 +1,1535 @@
+[2026-01-04 14:29:58]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "D:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C318 IN LINE 11 OF .\SRC\MAIN.C: can't open file 'STC89C5xRC.H'
+*** WARNING C206 IN LINE 16 OF .\SRC\MAIN.C: '_nop_': missing function-prototype
+*** ERROR C264 IN LINE 16 OF .\SRC\MAIN.C: intrinsic '_nop_': declaration/activation error
+*** ERROR C202 IN LINE 35 OF .\SRC\MAIN.C: 'P0': undefined identifier
+*** ERROR C202 IN LINE 37 OF .\SRC\MAIN.C: 'temp': undefined identifier
+
+C51 COMPILATION COMPLETE.  2 WARNING(S),  3 ERROR(S)
+
+[2026-01-04 14:45:11]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C318 IN LINE 11 OF .\SRC\MAIN.C: can't open file 'STC89C5xRC.H'
+*** WARNING C206 IN LINE 16 OF .\SRC\MAIN.C: '_nop_': missing function-prototype
+*** ERROR C264 IN LINE 16 OF .\SRC\MAIN.C: intrinsic '_nop_': declaration/activation error
+*** ERROR C202 IN LINE 35 OF .\SRC\MAIN.C: 'P0': undefined identifier
+*** ERROR C202 IN LINE 37 OF .\SRC\MAIN.C: 'temp': undefined identifier
+
+C51 COMPILATION COMPLETE.  2 WARNING(S),  3 ERROR(S)
+
+[2026-01-04 14:48:25]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 16 OF .\SRC\MAIN.C: '_nop_': missing function-prototype
+*** ERROR C264 IN LINE 16 OF .\SRC\MAIN.C: intrinsic '_nop_': declaration/activation error
+*** ERROR C202 IN LINE 37 OF .\SRC\MAIN.C: 'temp': undefined identifier
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  2 ERROR(S)
+
+[2026-01-04 14:49:04]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 16 OF .\SRC\MAIN.C: '_nop_': missing function-prototype
+*** ERROR C264 IN LINE 16 OF .\SRC\MAIN.C: intrinsic '_nop_': declaration/activation error
+*** ERROR C202 IN LINE 37 OF .\SRC\MAIN.C: 'temp': undefined identifier
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  2 ERROR(S)
+
+[2026-01-04 14:50:27]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 16 OF .\SRC\MAIN.C: '_nop_': missing function-prototype
+*** ERROR C264 IN LINE 16 OF .\SRC\MAIN.C: intrinsic '_nop_': declaration/activation error
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  1 ERROR(S)
+
+[2026-01-04 14:51:02]	[done]
+	build successfully !
+
+[2026-01-04 15:19:37]	[done]
+	build successfully !
+
+[2026-01-04 15:51:54]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C315 IN LINE 13 OF .\SRC\MAIN.C: unknown #directive 'typedef'
+*** ERROR C129 IN LINE 14 OF .\SRC\MAIN.C: missing ';' before 's_digit_codes'
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  1 ERROR(S)
+
+[2026-01-04 15:52:11]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C315 IN LINE 13 OF .\SRC\MAIN.C: unknown #directive 'typedef'
+*** ERROR C129 IN LINE 14 OF .\SRC\MAIN.C: missing ';' before 's_digit_codes'
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  1 ERROR(S)
+
+[2026-01-04 15:52:33]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C129 IN LINE 18 OF .\SRC\MAIN.C: missing ';' before 'static'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2026-01-04 15:52:44]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C231 IN LINE 35 OF .\SRC\MAIN.C: 'B': redefinition
+*** ERROR C202 IN LINE 55 OF .\SRC\MAIN.C: 'codes': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-04 15:53:07]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 50 OF .\SRC\MAIN.C: 'codes': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2026-01-04 15:53:26]	[done]
+	build successfully !
+
+[2026-01-04 15:56:13]	[done]
+	build successfully !
+
+[2026-01-04 16:02:50]	[done]
+	build successfully !
+
+[2026-01-04 16:22:38]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 72 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+*** ERROR C202 IN LINE 77 OF .\SRC\MAIN.C: 'LED_EN': undefined identifier
+*** ERROR C141 IN LINE 79 OF .\SRC\MAIN.C: syntax error near 'while', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  3 ERROR(S)
+
+[2026-01-04 16:23:01]	[done]
+	build successfully !
+
+[2026-01-04 16:27:36]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 54 OF .\SRC\MAIN.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 54 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 55 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 57 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 59 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 62 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 64 OF .\SRC\MAIN.C: 'i': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  7 ERROR(S)
+
+[2026-01-04 16:28:05]	[done]
+	build successfully !
+
+[2026-01-04 16:28:29]	[done]
+	build successfully !
+
+[2026-01-04 16:30:53]	[done]
+	build successfully !
+
+[2026-01-04 16:31:06]	[done]
+	build successfully !
+
+[2026-01-04 16:32:36]	[done]
+	build successfully !
+
+[2026-01-04 17:10:43]	compilation failed at : "d:\code\project_51\test\src\Int\Int_DigitalTube.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_DigitalTube.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_DigitalTube.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Int;src/Com) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_DigitalTube.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': missing function-prototype
+*** ERROR C267 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': requires ANSI-style prototype
+*** ERROR C202 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'buffer': undefined identifier
+*** ERROR C231 IN LINE 58 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': redefinition
+*** ERROR C231 IN LINE 64 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': redefinition
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  4 ERROR(S)
+
+[2026-01-04 17:11:20]	compilation failed at : "d:\code\project_51\test\src\Int\Int_DigitalTube.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_DigitalTube.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_DigitalTube.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Int;src/Com) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_DigitalTube.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': missing function-prototype
+*** ERROR C267 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': requires ANSI-style prototype
+*** ERROR C231 IN LINE 58 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': redefinition
+*** ERROR C231 IN LINE 64 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': redefinition
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  3 ERROR(S)
+
+[2026-01-04 17:11:39]	compilation failed at : "d:\code\project_51\test\src\Int\Int_DigitalTube.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_DigitalTube.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_DigitalTube.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Int;src/Com) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_DigitalTube.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': missing function-prototype
+*** ERROR C267 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': requires ANSI-style prototype
+*** ERROR C231 IN LINE 38 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': redefinition
+*** ERROR C231 IN LINE 44 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': redefinition
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  3 ERROR(S)
+
+[2026-01-04 17:12:03]	compilation failed at : "d:\code\project_51\test\src\Int\Int_DigitalTube.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_DigitalTube.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_DigitalTube.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Int;src/Com) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_DigitalTube.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': missing function-prototype
+*** ERROR C267 IN LINE 30 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': requires ANSI-style prototype
+*** ERROR C231 IN LINE 38 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': redefinition
+*** ERROR C231 IN LINE 44 OF .\SRC\INT\INT_DIGITALTUBE.C: 'Int_DigitalTube_DisplaySingle': redefinition
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  3 ERROR(S)
+
+[2026-01-04 17:13:04]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L127: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  _Int_DigitalTube_DisplayNum
+    MODULE:  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  _Int_DigitalTube_DisplayNum
+    MODULE:  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+    ADDRESS: 10000E9H
+
+Program Size: data=28.0 xdata=0 const=0 code=253
+LX51 RUN COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+
+[2026-01-04 17:29:08]	compilation failed at : "d:\code\project_51\test\src\Int\Int_DigitalTube.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_DigitalTube.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_DigitalTube.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Int;src/Com) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_DigitalTube.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 41 OF .\SRC\INT\INT_DIGITALTUBE.C: 'buffer': undefined identifier
+*** ERROR C202 IN LINE 46 OF .\SRC\INT\INT_DIGITALTUBE.C: 'buffer': undefined identifier
+*** ERROR C202 IN LINE 51 OF .\SRC\INT\INT_DIGITALTUBE.C: 'buffer': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  3 ERROR(S)
+
+[2026-01-04 17:29:51]	[done]
+	build successfully !
+
+[2026-01-04 17:30:29]	[done]
+	build successfully !
+
+[2026-01-04 17:30:42]	[done]
+	build successfully !
+
+[2026-01-04 17:34:27]	[done]
+	build successfully !
+
+[2026-01-04 17:48:15]	[done]
+	build successfully !
+
+[2026-01-04 17:48:42]	[done]
+	build successfully !
+
+[2026-01-04 17:49:11]	[done]
+	build successfully !
+
+[2026-01-04 17:58:10]	[done]
+	build successfully !
+
+[2026-01-04 19:16:43]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Int;src/Com) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 63 OF .\SRC\MAIN.C: syntax error near '{', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2026-01-04 19:16:50]	[done]
+	build successfully !
+
+[2026-01-04 19:41:56]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 29 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2026-01-04 19:42:07]	[done]
+	build successfully !
+
+[2026-01-04 19:43:15]	[done]
+	build successfully !
+
+[2026-01-05 00:02:13]	compilation failed at : "d:\code\project_51\test\src\Int\Int_KeyMatrix.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_KeyMatrix.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_KeyMatrix.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_KeyMatrix.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 11 OF .\SRC\INT\INT_KEYMATRIX.C: 'P2': undefined identifier
+*** ERROR C202 IN LINE 16 OF .\SRC\INT\INT_KEYMATRIX.C: 'P2': undefined identifier
+*** ERROR C202 IN LINE 19 OF .\SRC\INT\INT_KEYMATRIX.C: 'P2': undefined identifier
+*** ERROR C202 IN LINE 21 OF .\SRC\INT\INT_KEYMATRIX.C: 'P2': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  4 ERROR(S)
+
+[2026-01-05 00:02:43]	[done]
+	build successfully !
+
+[2026-01-05 00:12:55]	[done]
+	build successfully !
+
+[2026-01-05 00:14:39]	[done]
+	build successfully !
+
+[2026-01-05 00:15:21]	[done]
+	build successfully !
+
+[2026-01-05 00:16:31]	[done]
+	build successfully !
+
+[2026-01-05 00:24:22]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 4 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C141 IN LINE 16 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'freq', expected ')'
+*** ERROR C202 IN LINE 17 OF .\SRC\INT\INT_BUZZER.C: 'freq': undefined identifier
+*** ERROR C202 IN LINE 18 OF .\SRC\INT\INT_BUZZER.C: 'freq': undefined identifier
+*** ERROR C141 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'u32', expected 'sizeof'
+*** ERROR C202 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C141 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: syntax error near ')', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2026-01-05 00:24:59]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 4 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C141 IN LINE 16 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'freq', expected ')'
+*** ERROR C202 IN LINE 17 OF .\SRC\INT\INT_BUZZER.C: 'freq': undefined identifier
+*** ERROR C202 IN LINE 18 OF .\SRC\INT\INT_BUZZER.C: 'freq': undefined identifier
+*** ERROR C141 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'u32', expected 'sizeof'
+*** ERROR C202 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C141 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: syntax error near ')', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2026-01-05 00:25:11]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 4 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C141 IN LINE 16 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'freq', expected ')'
+*** ERROR C202 IN LINE 18 OF .\SRC\INT\INT_BUZZER.C: 'freq': undefined identifier
+*** ERROR C202 IN LINE 19 OF .\SRC\INT\INT_BUZZER.C: 'freq': undefined identifier
+*** ERROR C141 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'u32', expected 'sizeof'
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C141 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: syntax error near ')', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  9 ERROR(S)
+
+[2026-01-05 00:25:37]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 4 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C236 IN LINE 17 OF .\SRC\INT\INT_BUZZER.C: '_beep': different length of parameter lists
+*** ERROR C141 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'u32', expected 'sizeof'
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C141 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: syntax error near ')', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  7 ERROR(S)
+
+[2026-01-05 00:27:57]	compilation failed at : "d:\code\project_51\test\src\Com\Com_Util.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Com\Com_Util.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Com\Com_Util.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Com\Com_Util.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 9 OF .\SRC\COM\COM_UTIL.C: syntax error near 'us', expected ')'
+*** ERROR C202 IN LINE 11 OF .\SRC\COM\COM_UTIL.C: 'us': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-05 00:28:50]	compilation failed at : "d:\code\project_51\test\src\Com\Com_Util.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Com\Com_Util.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Com\Com_Util.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Com\Com_Util.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 10 OF .\SRC\COM\COM_UTIL.C: syntax error near 'us', expected ')'
+*** ERROR C202 IN LINE 12 OF .\SRC\COM\COM_UTIL.C: 'us': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-05 00:29:07]	compilation failed at : "d:\code\project_51\test\src\Com\Com_Util.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Com\Com_Util.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Com\Com_Util.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Com\Com_Util.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 10 OF .\SRC\COM\COM_UTIL.C: syntax error near 'us', expected ')'
+*** ERROR C202 IN LINE 13 OF .\SRC\COM\COM_UTIL.C: 'us': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-05 00:29:46]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 4 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C236 IN LINE 17 OF .\SRC\INT\INT_BUZZER.C: '_beep': different length of parameter lists
+*** ERROR C141 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'u32', expected 'sizeof'
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C141 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: syntax error near ')', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  7 ERROR(S)
+
+[2026-01-05 00:30:48]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 5 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C236 IN LINE 17 OF .\SRC\INT\INT_BUZZER.C: '_beep': different length of parameter lists
+*** ERROR C141 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: syntax error near 'u32', expected 'sizeof'
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: 'i': undefined identifier
+*** ERROR C141 IN LINE 20 OF .\SRC\INT\INT_BUZZER.C: syntax error near ')', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  7 ERROR(S)
+
+[2026-01-05 00:31:37]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 5 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C236 IN LINE 17 OF .\SRC\INT\INT_BUZZER.C: '_beep': different length of parameter lists
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-05 00:32:25]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 5 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C236 IN LINE 17 OF .\SRC\INT\INT_BUZZER.C: '_beep': different length of parameter lists
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-05 00:32:55]	compilation failed at : "d:\code\project_51\test\src\Int\Int_Buzzer.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_Buzzer.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_Buzzer.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_Buzzer.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 5 OF .\SRC\INT\Int_Buzzer.h: syntax error near 'freq', expected ')'
+*** ERROR C236 IN LINE 17 OF .\SRC\INT\INT_BUZZER.C: '_beep': different length of parameter lists
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-05 00:34:18]	[done]
+	build successfully !
+
+[2026-01-05 00:34:54]	[done]
+	build successfully !
+
+[2026-01-05 00:36:58]	[done]
+	build successfully !
+
+[2026-01-05 00:37:44]	[done]
+	build successfully !
+
+[2026-01-05 00:38:55]	[done]
+	build successfully !
+
+[2026-01-05 00:55:37]	[done]
+	build successfully !
+
+[2026-01-05 01:05:50]	[done]
+	build successfully !
+
+[2026-01-05 21:10:55]	[done]
+	build successfully !
+
+[2026-01-05 21:11:52]	[done]
+	build successfully !
+
+[2026-01-05 21:14:15]	[done]
+	build successfully !
+
+[2026-01-05 21:48:36]	compilation failed at : "d:\code\project_51\test\src\Dri\Dri_Timer0.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Dri\Dri_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dri\Dri_Timer0.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int;src/Dri) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dri\Dri_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 20 OF .\SRC\DRI\DRI_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 20 OF .\SRC\DRI\DRI_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 21 OF .\SRC\DRI\DRI_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 23 OF .\SRC\DRI\DRI_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 67 OF .\SRC\DRI\DRI_TIMER0.C: 'I': undefined identifier
+*** ERROR C211 IN LINE 70 OF .\SRC\DRI\DRI_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  6 ERROR(S)
+
+[2026-01-05 21:49:02]	compilation failed at : "d:\code\project_51\test\src\Dri\Dri_Timer0.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Dri\Dri_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dri\Dri_Timer0.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int;src/Dri) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dri\Dri_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 20 OF .\SRC\DRI\DRI_TIMER0.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 20 OF .\SRC\DRI\DRI_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 21 OF .\SRC\DRI\DRI_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 23 OF .\SRC\DRI\DRI_TIMER0.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 67 OF .\SRC\DRI\DRI_TIMER0.C: 'I': undefined identifier
+*** ERROR C211 IN LINE 70 OF .\SRC\DRI\DRI_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  6 ERROR(S)
+
+[2026-01-05 21:49:18]	compilation failed at : "d:\code\project_51\test\src\Dri\Dri_Timer0.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Dri\Dri_Timer0.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dri\Dri_Timer0.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int;src/Dri) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dri\Dri_Timer0.o)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 68 OF .\SRC\DRI\DRI_TIMER0.C: 'I': undefined identifier
+*** ERROR C211 IN LINE 71 OF .\SRC\DRI\DRI_TIMER0.C: call not to a function
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-05 21:49:56]	[done]
+	build successfully !
+
+[2026-01-05 21:53:31]	[done]
+	build successfully !
+
+[2026-01-05 21:55:11]	[done]
+	build successfully !
+
+[2026-01-05 22:00:57]	[done]
+	build successfully !
+
+[2026-01-06 17:17:13]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Dri;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 4 OF .\SRC\INT\Int_LEDMatrix.h: syntax error near 'pic', expected ')'
+*** ERROR C309 IN LINE 3 OF .\SRC\INT\INT_LEDMATRIX.C: bad or missing filename
+*** WARNING C318 IN LINE 3 OF .\SRC\INT\INT_LEDMATRIX.C: can't open file ''
+*** ERROR C129 IN LINE 12 OF .\SRC\INT\INT_LEDMATRIX.C: missing ';' before 's_buffer'
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  3 ERROR(S)
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 14 OF .\SRC\MAIN.C: syntax error near 'Int_LEDMatrix_Init', expected ';'
+*** ERROR C231 IN LINE 14 OF .\SRC\MAIN.C: 'Int_LEDMatrix_Init': redefinition
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-06 17:17:45]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Dri;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C309 IN LINE 3 OF .\SRC\INT\INT_LEDMATRIX.C: bad or missing filename
+*** WARNING C318 IN LINE 3 OF .\SRC\INT\INT_LEDMATRIX.C: can't open file ''
+*** ERROR C202 IN LINE 43 OF .\SRC\INT\INT_LEDMATRIX.C: 'p11': undefined identifier
+*** ERROR C202 IN LINE 44 OF .\SRC\INT\INT_LEDMATRIX.C: 'p11': undefined identifier
+*** ERROR C202 IN LINE 46 OF .\SRC\INT\INT_LEDMATRIX.C: 'p0': undefined identifier
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  4 ERROR(S)
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 14 OF .\SRC\MAIN.C: syntax error near 'Int_LEDMatrix_Init', expected ';'
+*** ERROR C231 IN LINE 14 OF .\SRC\MAIN.C: 'Int_LEDMatrix_Init': redefinition
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-06 17:18:24]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Dri;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C317 IN LINE 9 OF .\SRC\INT\INT_LEDMATRIX.C: attempt to redefine macro 'RCK'
+*** ERROR C202 IN LINE 40 OF .\SRC\INT\INT_LEDMATRIX.C: 'SCK': undefined identifier
+*** ERROR C202 IN LINE 41 OF .\SRC\INT\INT_LEDMATRIX.C: 'SCK': undefined identifier
+*** ERROR C202 IN LINE 46 OF .\SRC\INT\INT_LEDMATRIX.C: 'p0': undefined identifier
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  3 ERROR(S)
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 14 OF .\SRC\MAIN.C: syntax error near 'Int_LEDMatrix_Init', expected ';'
+*** ERROR C231 IN LINE 14 OF .\SRC\MAIN.C: 'Int_LEDMatrix_Init': redefinition
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-06 17:19:24]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Dri;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 43 OF .\SRC\INT\INT_LEDMATRIX.C: 'p11': undefined identifier
+*** ERROR C202 IN LINE 44 OF .\SRC\INT\INT_LEDMATRIX.C: 'p11': undefined identifier
+*** ERROR C202 IN LINE 46 OF .\SRC\INT\INT_LEDMATRIX.C: 'p0': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  3 ERROR(S)
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 14 OF .\SRC\MAIN.C: syntax error near 'Int_LEDMatrix_Init', expected ';'
+*** ERROR C231 IN LINE 14 OF .\SRC\MAIN.C: 'Int_LEDMatrix_Init': redefinition
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-06 17:19:39]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Dri;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 46 OF .\SRC\INT\INT_LEDMATRIX.C: 'p0': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 14 OF .\SRC\MAIN.C: syntax error near 'Int_LEDMatrix_Init', expected ';'
+*** ERROR C231 IN LINE 14 OF .\SRC\MAIN.C: 'Int_LEDMatrix_Init': redefinition
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-06 17:19:54]	compilation failed at : "d:\code\project_51\test\src\Int\Int_LEDMatrix.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_LEDMatrix.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_LEDMatrix.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Dri;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_LEDMatrix.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 46 OF .\SRC\INT\INT_LEDMATRIX.C: 'p0': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2026-01-06 17:20:11]	[done]
+	build successfully !
+
+[2026-01-06 17:29:04]	[done]
+	build successfully !
+
+[2026-01-06 17:30:19]	[done]
+	build successfully !
+
+[2026-01-06 17:46:37]	[done]
+	build successfully !
+
+[2026-01-06 17:47:21]	[done]
+	build successfully !
+
+[2026-01-06 19:11:29]	[done]
+	build successfully !
+
+[2026-01-06 19:11:32]	[done]
+	build successfully !
+
+[2026-01-06 19:11:55]	[done]
+	build successfully !
+
+[2026-01-06 20:30:52]	[done]
+	build successfully !
+
+[2026-01-06 20:52:01]	[done]
+	build successfully !
+
+[2026-01-06 20:54:20]	[done]
+	build successfully !
+
+[2026-01-06 21:16:11]	[done]
+	build successfully !
+
+[2026-01-06 21:16:21]	[done]
+	build successfully !
+
+[2026-01-06 21:17:13]	[done]
+	build successfully !
+
+[2026-01-06 22:10:26]	[done]
+	build successfully !
+
+[2026-01-06 22:39:59]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int;src/Dri) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 14 OF .\SRC\MAIN.C: 'Dri_UART_ReceiveChar': missing function-prototype
+*** ERROR C267 IN LINE 14 OF .\SRC\MAIN.C: 'Dri_UART_ReceiveChar': requires ANSI-style prototype
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  1 ERROR(S)
+
+[2026-01-06 22:42:03]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int;src/Dri) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 14 OF .\SRC\MAIN.C: 'Dri_UART_ReceiveChar': missing function-prototype
+*** ERROR C267 IN LINE 14 OF .\SRC\MAIN.C: 'Dri_UART_ReceiveChar': requires ANSI-style prototype
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  1 ERROR(S)
+
+[2026-01-06 22:42:23]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int;src/Dri) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C200 IN LINE 16 OF .\SRC\MAIN.C: left side of '.' requires struct/union
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2026-01-06 22:43:18]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Int;src/Dri) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 16 OF .\SRC\MAIN.C: 'strcmp': missing function-prototype
+*** ERROR C267 IN LINE 16 OF .\SRC\MAIN.C: 'strcmp': requires ANSI-style prototype
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  1 ERROR(S)
+
+[2026-01-06 22:43:46]	[done]
+	build successfully !
+
+[2026-01-06 22:49:20]	[done]
+	build successfully !
+
+[2026-01-06 22:49:30]	[done]
+	build successfully !
+
+[2026-01-06 22:53:01]	[done]
+	build successfully !
+
+[2026-01-06 22:58:23]	[done]
+	build successfully !
+
+[2026-01-06 22:59:17]	[done]
+	build successfully !
+
+[2026-01-07 14:41:35]	[done]
+	build successfully !
+
+[2026-01-07 14:45:21]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1637
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:46:45]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1637
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:47:05]	[done]
+	build successfully !
+
+[2026-01-07 14:47:59]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1637
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:48:27]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1637
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:49:35]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1637
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:49:59]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1630
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:50:35]	[done]
+	build successfully !
+
+[2026-01-07 14:50:48]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?INT_LEDMATRIX
+    LENGTH:  000009H   
+
+Program Size: data=131.3 xdata=0 const=0 code=1588
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:51:11]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Dri;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C202 IN LINE 26 OF .\SRC\MAIN.C: 'i': undefined identifier
+*** ERROR C202 IN LINE 28 OF .\SRC\MAIN.C: 'i': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-07 14:51:22]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1429
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:51:56]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1494
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:52:04]	[done]
+	build successfully !
+
+[2026-01-07 14:52:12]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: _DATA_GROUP_
+    LENGTH:  000008H   
+
+Program Size: data=126.3 xdata=0 const=0 code=1463
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:56:19]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?INT_LEDMATRIX
+    LENGTH:  000009H   
+
+Program Size: data=131.3 xdata=0 const=0 code=1243
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 14:56:32]	[done]
+	build successfully !
+
+[2026-01-07 14:56:51]	[done]
+	build successfully !
+
+[2026-01-07 14:57:46]	[done]
+	build successfully !
+
+[2026-01-07 15:04:27]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Com;src/Dri;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) SMALL ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 19 OF .\SRC\MAIN.C: syntax error near 'u8', expected '__asm'
+*** ERROR C202 IN LINE 19 OF .\SRC\MAIN.C: 'buffer': undefined identifier
+*** ERROR C202 IN LINE 22 OF .\SRC\MAIN.C: 'buffer': undefined identifier
+*** ERROR C202 IN LINE 28 OF .\SRC\MAIN.C: 'buffer': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  4 ERROR(S)
+
+[2026-01-07 15:04:52]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1630
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 15:11:25]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** WARNING L14: INCOMPATIBLE MEMORY MODEL
+    MODULE:  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+    MODEL:   LARGE
+
+*** ERROR L102: EXTERNAL ATTRIBUTE MISMATCH
+    SYMBOL:  ?_Int_EEPROM_ReadBytes?BYTE
+    MODULE:  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+   DEFINED:  .\BUILD\RELEASE\.OBJ\SRC\INT\INT_EEPROM.O (INT_EEPROM)
+
+*** ERROR L102: EXTERNAL ATTRIBUTE MISMATCH
+    SYMBOL:  ?_Int_EEPROM_WriteBytes?BYTE
+    MODULE:  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+   DEFINED:  .\BUILD\RELEASE\.OBJ\SRC\INT\INT_EEPROM.O (INT_EEPROM)
+
+*** ERROR L118: REFERENCE MADE TO ERRONEOUS EXTERNAL
+    SYMBOL:  ?_Int_EEPROM_WriteBytes?BYTE
+    MODULE:  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+    ADDRESS: 100044FH
+
+*** ERROR L118: REFERENCE MADE TO ERRONEOUS EXTERNAL
+    SYMBOL:  ?_Int_EEPROM_ReadBytes?BYTE
+    MODULE:  .\BUILD\RELEASE\.OBJ\SRC\MAIN.O (MAIN)
+    ADDRESS: 1000460H
+
+Program Size: data=79.3 xdata=53 const=0 code=1651
+LX51 RUN COMPLETE.  1 WARNING(S),  4 ERROR(S)
+
+
+[2026-01-07 15:11:40]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1630
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 15:16:58]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1630
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 15:22:44]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1630
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 15:28:42]	link failed !, exit code: 2
+   at unify_builder.Program.Main(String[] args_)
+---
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\code\project_51\test\build\Release\test.lnp .\build\Release\.obj\src\Com\Com_Util.o,.\build\Release\.obj\src\Dri\Dri_Timer0.o,.\build\Release\.obj\src\Dri\Dri_UART.o,.\build\Release\.obj\src\Dri\Dri_iic.o,.\build\Release\.obj\src\Int\Int_Buzzer.o,.\build\Release\.obj\src\Int\Int_DigitalTube.o,.\build\Release\.obj\src\Int\Int_EEPROM.o,.\build\Release\.obj\src\Int\Int_Key.o,.\build\Release\.obj\src\Int\Int_KeyMatrix.o,.\build\Release\.obj\src\Int\Int_LEDMatrix.o,.\build\Release\.obj\src\main.o TO .\build\Release\test
+PRINT(.\build\Release\test.map) REMOVEUNUSED
+
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?DRI_TIMER0
+    LENGTH:  00000CH   
+
+Program Size: data=132.3 xdata=0 const=0 code=1630
+LX51 RUN COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+
+[2026-01-07 15:36:54]	[done]
+	build successfully !
+
+[2026-01-07 15:37:16]	[done]
+	build successfully !
+
+[2026-01-07 15:37:39]	[done]
+	build successfully !
+
+[2026-01-07 15:37:54]	[done]
+	build successfully !
+
+[2026-01-07 15:38:16]	[done]
+	build successfully !
+
+[2026-01-07 15:38:44]	[done]
+	build successfully !
+
+[2026-01-07 15:38:55]	[done]
+	build successfully !
+
+[2026-01-07 15:40:04]	[done]
+	build successfully !
+
+[2026-01-07 15:40:28]	[done]
+	build successfully !
+
+[2026-01-07 15:40:42]	[done]
+	build successfully !
+
+[2026-01-07 15:40:56]	[done]
+	build successfully !
+
+[2026-01-07 15:45:17]	[done]
+	build successfully !
+
+[2026-01-07 15:49:05]	[done]
+	build successfully !
+
+[2026-01-07 19:17:55]	compilation failed at : "d:\code\project_51\test\src\Int\Int_OLED.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_OLED.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_OLED.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_OLED.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C231 IN LINE 39 OF .\SRC\INT\INT_OLED.C: 'Int_OLED_WriteInit': redefinition
+*** ERROR C231 IN LINE 52 OF .\SRC\INT\INT_OLED.C: 'Int_OLED_WriteInit': redefinition
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-07 19:18:51]	compilation failed at : "d:\code\project_51\test\src\Int\Int_OLED.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_OLED.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_OLED.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_OLED.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C231 IN LINE 39 OF .\SRC\INT\INT_OLED.C: 'Int_OLED_Init': redefinition
+*** ERROR C231 IN LINE 52 OF .\SRC\INT\INT_OLED.C: 'Int_OLED_Init': redefinition
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-07 19:19:52]	compilation failed at : "d:\code\project_51\test\src\Int\Int_OLED.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Int\Int_OLED.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Int\Int_OLED.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\Int\Int_OLED.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C236 IN LINE 23 OF .\SRC\INT\INT_OLED.C: '_Int_OLED_WriteCmd': different length of parameter lists
+*** ERROR C202 IN LINE 31 OF .\SRC\INT\INT_OLED.C: 'length': undefined identifier
+*** ERROR C202 IN LINE 33 OF .\SRC\INT\INT_OLED.C: 'bytes': undefined identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  3 ERROR(S)
+
+[2026-01-07 19:20:37]	[done]
+	build successfully !
+
+[2026-01-07 19:21:05]	[done]
+	build successfully !
+
+[2026-01-07 19:23:35]	[done]
+	build successfully !
+
+[2026-01-07 19:26:00]	[done]
+	build successfully !
+
+[2026-01-07 19:46:17]	[done]
+	build successfully !
+
+[2026-01-07 19:59:21]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 6 OF .\SRC\MAIN.C: 'Int_OLED_Clear': missing function-prototype
+*** ERROR C141 IN LINE 7 OF .\SRC\MAIN.C: syntax error near 'u8', expected '__asm'
+*** ERROR C141 IN LINE 7 OF .\SRC\MAIN.C: syntax error near ']', expected ';'
+*** ERROR C141 IN LINE 7 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near 'data', expected 'sizeof'
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  4 ERROR(S)
+
+[2026-01-07 19:59:30]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 6 OF .\SRC\MAIN.C: 'Int_OLED_Clear': missing function-prototype
+*** ERROR C141 IN LINE 7 OF .\SRC\MAIN.C: syntax error near 'u8', expected '__asm'
+*** ERROR C141 IN LINE 7 OF .\SRC\MAIN.C: syntax error near ']', expected ';'
+*** ERROR C141 IN LINE 7 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near 'data', expected 'sizeof'
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  4 ERROR(S)
+
+[2026-01-07 19:59:44]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 7 OF .\SRC\MAIN.C: 'Int_OLED_Clear': missing function-prototype
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near 'u8', expected '__asm'
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near ']', expected ';'
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+*** ERROR C141 IN LINE 9 OF .\SRC\MAIN.C: syntax error near 'data', expected 'sizeof'
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  4 ERROR(S)
+
+[2026-01-07 20:00:21]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 7 OF .\SRC\MAIN.C: 'Int_OLED_Clear': missing function-prototype
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near 'u8', expected '__asm'
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near ']', expected ';'
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+*** ERROR C141 IN LINE 9 OF .\SRC\MAIN.C: syntax error near 'data', expected 'sizeof'
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  4 ERROR(S)
+
+[2026-01-07 20:00:51]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** WARNING C206 IN LINE 7 OF .\SRC\MAIN.C: 'Int_OLED_Clear': missing function-prototype
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near 'u8', expected '__asm'
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near ']', expected ';'
+*** ERROR C141 IN LINE 8 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+*** ERROR C141 IN LINE 9 OF .\SRC\MAIN.C: syntax error near 'data', expected 'sizeof'
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  4 ERROR(S)
+
+[2026-01-07 20:01:01]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 6 OF .\SRC\MAIN.C: syntax error near '[', expected '<id>'
+*** ERROR C141 IN LINE 6 OF .\SRC\MAIN.C: syntax error near ']', expected ';'
+*** ERROR C141 IN LINE 6 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  3 ERROR(S)
+
+[2026-01-07 20:01:30]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 6 OF .\SRC\MAIN.C: syntax error near '[', expected '<id>'
+*** ERROR C141 IN LINE 6 OF .\SRC\MAIN.C: syntax error near ']', expected ';'
+*** ERROR C141 IN LINE 6 OF .\SRC\MAIN.C: syntax error near '}', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  3 ERROR(S)
+
+[2026-01-07 20:02:04]	[done]
+	build successfully !
+
+[2026-01-07 21:18:05]	compilation failed at : "d:\code\project_51\test\src\main.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\main.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\main.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Dri;src/Com;src/Int) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\main.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C141 IN LINE 12 OF .\SRC\MAIN.C: syntax error near 'while', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
+
+[2026-01-07 21:18:18]	[done]
+	build successfully !
+
+[2026-01-07 21:19:21]	[done]
+	build successfully !
+
+[2026-01-07 21:19:26]	[done]
+	build successfully !
+
+[2026-01-07 21:20:13]	[done]
+	build successfully !
+
+[2026-01-07 21:20:38]	[done]
+	build successfully !
+
+[2026-01-07 21:20:58]	[done]
+	build successfully !
+
+[2026-01-07 21:21:16]	[done]
+	build successfully !
+
+[2026-01-07 21:21:53]	[done]
+	build successfully !
+
+[2026-01-07 21:22:03]	[done]
+	build successfully !
+
+[2026-01-07 21:24:30]	[done]
+	build successfully !
+
+[2026-01-07 21:25:02]	[done]
+	build successfully !
+
+[2026-01-07 21:26:29]	[done]
+	build successfully !
+
+[2026-01-07 21:37:24]	[done]
+	build successfully !
+
+[2026-01-07 21:38:09]	[done]
+	build successfully !
+
+[2026-01-07 21:40:05]	compilation failed at : "d:\code\project_51\test\src\Dri\Dri_iic.c", exit code: 2
+command: 
+  "d:\Keil_v5\C51\BIN\C51.exe" .\src\Dri\Dri_iic.c OMF2 TABS(4) CODE NOCOND SYMBOLS PRINT(.\build\Release\.obj\src\Dri\Dri_iic.lst) INCDIR(../../../Keil_v5/C51/INC/STC;../../../Keil_v5/C51/INC;src;src/Int;src/Dri;src/Com) DEFINE(__UVISION_VERSION='526') OPTIMIZE(8,SPEED) LARGE ROM(LARGE) OBJECT(.\build\Release\.obj\src\Dri\Dri_iic.o)
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+C51 COMPILER V9.60.7.0 - SN: K1DZC-7N8NVC
+COPYRIGHT Copyright (C) 2012 - 2022 ARM Limited or its Affiliates. All rights reserved.
+*** ERROR C231 IN LINE 54 OF .\SRC\DRI\DRI_IIC.C: 'Dri_IIC_ReceiveAck': redefinition
+*** ERROR C231 IN LINE 61 OF .\SRC\DRI\DRI_IIC.C: 'Dri_IIC_ReceiveAck': redefinition
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)
+
+[2026-01-07 21:40:54]	[done]
+	build successfully !
+
+[2026-01-07 21:41:53]	[done]
+	build successfully !
+
+[2026-01-07 21:42:33]	[done]
+	build successfully !
+
+[2026-01-07 21:43:58]	[done]
+	build successfully !
+
+[2026-01-07 21:45:14]	[done]
+	build successfully !
+
+[2026-01-07 21:45:47]	[done]
+	build successfully !
+
+[2026-01-07 21:47:21]	[done]
+	build successfully !
+
+[2026-01-07 21:47:51]	[done]
+	build successfully !
+
+[2026-01-07 21:53:08]	[done]
+	build successfully !
+
+[2026-01-07 23:11:12]	[done]
+	build successfully !
+
